@@ -272,6 +272,19 @@ Hosted models include:
 
 ---
 
+# 🚀 How to Run the Project
+
+```bash
+git clone https://github.com/Anjali2220/graph-recommender-system-movielens.git
+
+cd graph-recommender-system-movielens
+
+pip install -r requirements.txt
+
+streamlit run src/eda/streamlit_app.py
+```
+
+
 # 🛠️ Tech Stack
 
 ## Languages & Libraries
@@ -294,6 +307,14 @@ Hosted models include:
 # 📄 Project Report
 
 [Download Full Report](report/GRAPH%20BASED%20RECOMMENDER%20SYSTEM.pdf)
+
+# 🔮 Future Improvements
+
+- Add transformer-based recommendation models
+- Integrate temporal user interaction modeling
+- Deploy the Streamlit dashboard publicly
+- Optimize graph training for scalability
+- Explore knowledge graph-based recommendation systems
 
 # 📁 Project Structure
 
