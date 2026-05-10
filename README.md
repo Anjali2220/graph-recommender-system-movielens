@@ -291,6 +291,10 @@ Hosted models include:
 
 ---
 
+# 📄 Project Report
+
+[Download Full Report](report/GRAPH%20BASED%20RECOMMENDER%20SYSTEM.pdf)
+
 # 📁 Project Structure
 
 ```bash
