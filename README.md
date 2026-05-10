@@ -231,6 +231,24 @@ An interactive Streamlit application was developed to:
 - Top-10 and Top-20 movie recommendations
 - Genre and tag visualization
 
+# 🖥️ Streamlit Dashboard
+
+## Dashboard Overview
+
+<img src="screenshots/dashboard.png" width="900">
+
+---
+
+## Model Comparison
+
+<img src="screenshots/model_comparison.png" width="900">
+
+---
+
+## Recommendation Output
+
+<img src="screenshots/recommendation_output.png" width="900">
+
 ---
 
 # 🤗 Model Hosting
