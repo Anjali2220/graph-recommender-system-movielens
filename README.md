@@ -261,6 +261,15 @@ Hosted models include:
 - LightGCN
 - GraphSAGE
 
+# 🤗 Hugging Face Models
+
+| Model | Hugging Face Link |
+|---|---|
+| ItemKNN | [View Model](https://huggingface.co/AnjaliBankapur/itemknn-movielens20m-baseline) |
+| MF-BPR | [View Model](https://huggingface.co/AnjaliBankapur/mf-movielens20m-baseline) |
+| LightGCN | [View Model](https://huggingface.co/AnjaliBankapur/lightgcn-movielens20m) |
+| GraphSAGE | [View Model](https://huggingface.co/AnjaliBankapur/graphsage-movielens20m) |
+
 ---
 
 # 🛠️ Tech Stack
