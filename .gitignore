@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+
+# PyCharm files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Large datasets
+data/ratings.csv
+data/tags.csv
+data/movies.csv
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+
+# Logs
+*.log
+
+# Large folders
+data/
+outputs/
+
+# Model repositories
+graphsage-movielens20m/
+lightgcn-movielens20m/
+mf-movielens20m-baseline/
+itemknn-movielens20m-baseline/
